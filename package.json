@@ -4,7 +4,7 @@
   "homepage": ".",
   "private": true,
   "devDependencies": {
-    "@popperjs/core": "^2.9.2",
+    "@popperjs/core": "^2.11.6",
     "@reach/dialog": "^0.16.2",
     "@reach/portal": "^0.15.0",
     "@reduxjs/toolkit": "^1.5.1",
