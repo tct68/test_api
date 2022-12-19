@@ -146,7 +146,7 @@
     "randombytes": "^2.1.0",
     "rc-drawer": "^4.4.3",
     "react-is": "^17.0.2",
-    "react-router": "^5.2.0",
+    "react-router": "^6.5.0",
     "rebass": "^4.0.7",
     "redux": "^4.1.0",
     "rlp": "^2.2.6",
